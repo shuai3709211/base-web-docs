@@ -24,4 +24,4 @@ import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BUGr44wb.js";const c
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">       }}</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  ]</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&lt;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">script</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;</span></span></code></pre></div><p>:::</p>`,5),h=[t];function p(k,E,e,r,d,g){return a(),i("div",null,h)}const o=s(l,[["render",p]]);export{c as __pageData,o as default};
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&lt;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">script</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;</span></span></code></pre></div>`,4),h=[t];function p(k,E,e,r,d,g){return a(),i("div",null,h)}const o=s(l,[["render",p]]);export{c as __pageData,o as default};
